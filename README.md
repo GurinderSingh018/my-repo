@@ -14,7 +14,7 @@ Monthly, weekly, and daily views-
 
  Customizable themes
 
- Getting Started
+ Getting Started early
 
 Prerequisites:-
 
@@ -41,7 +41,7 @@ npm start
 
 Open your browser and go to http://localhost:3000
 
-Create, manage, and track your events
+Create, manage, and track your events now
 
  Documentation-
 
