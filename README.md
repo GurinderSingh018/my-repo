@@ -2,7 +2,7 @@ Calendar Project-
 
 A simple and customizable calendar application that helps you manage events, track important dates, and stay organized.
 
-Features:-
+Features about this:-
 
 Monthly, weekly, and daily views-
 
@@ -12,9 +12,9 @@ Monthly, weekly, and daily views-
 
  Analytics for event tracking
 
- Customizable themes
+ Customizable themes 
 
- Getting Started
+ Getting Started now
 
 Prerequisites:-
 
@@ -41,7 +41,7 @@ npm start
 
 Open your browser and go to http://localhost:3000
 
-Create, manage, and track your events
+Create, manage, and track your events easily.
 
  Documentation-
 
