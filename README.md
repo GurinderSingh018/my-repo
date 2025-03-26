@@ -12,9 +12,10 @@ Monthly, weekly, and daily views-
 
  Analytics for event tracking
 
- Customizable themes 
+ Customizable 
+ Getting Started early
 
- Getting Started now
+
 
 Prerequisites:-
 
@@ -39,9 +40,9 @@ npm start
 
  Usage
 
-Open your browser and go to http://localhost:3000
+Open your browser and go to http://localhost:300
+Create, manage, and track your events now
 
-Create, manage, and track your events easily.
 
  Documentation-
 
